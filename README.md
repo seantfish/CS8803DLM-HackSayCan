@@ -1,5 +1,5 @@
 # CS8803DLM-HackSayCan
-Created for CS8803 DLM Hacker Role for SayCan Paper
+Created for CS8803 DLM Hacker Role for SayCan Paper (Spring 2024)
 
 This repo includes:
 - requirements.txt (in case you want to try)
