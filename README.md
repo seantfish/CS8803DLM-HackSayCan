@@ -9,3 +9,4 @@ This repo includes:
   - code is the same between notebooks, I saved separate outputs for different models
   - I have some snippets of test code here and there - it should be pretty obvious
 - my slides with a description of what I did
+- a defunct OpenAI key, don't be silly and leave it in your notebook
